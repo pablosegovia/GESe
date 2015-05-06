@@ -1,0 +1,2 @@
+# GESe
+Gestión Escolar Secundaria
